@@ -1,0 +1,162 @@
+* {
+    list-style: none;
+    text-decoration: none;
+}
+
+header {
+    background-color: #2A2A2A;
+}
+
+nav {
+    align-items: center;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+
+.on {
+    width: 1000px;
+    height: 340px;
+    margin: auto;
+    color: white;
+    text-align: center;
+    font-size: 25px
+}
+
+.bt {
+    background-color: #FF5B56;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 4px;
+    margin-top: 90px;
+}
+
+.bir {
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    margin-top: 100px;
+}
+
+.box4 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.box4 p {
+    color: #616161;
+}
+
+.box5 {
+    width: 300px;
+    margin: auto;
+}
+
+.bt1 {
+    background-color: #595959;
+    border: none;
+    padding: 5px;
+    border-radius: 4px;
+    color: white;
+}
+
+.bt2 {
+    background-color: #FF5B56;
+    border: none;
+    padding: 5px;
+    border-radius: 4px;
+    color: white;
+}
+
+.box6 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+footer {
+    /* height: 350px; */
+    background-color: #2A2A2A;
+    text-align: center;
+}
+
+footer h2 {
+    color: white;
+    padding-top: 60px;
+}
+
+footer p {
+    color: #616161;
+    /* padding-top: 60px; */
+}
+
+.oxr {
+    justify-content: space-around;
+    align-items: center;
+    /* border: 2px solid red; */
+    display: flex;
+    margin: auto;
+    width: 500px;
+    color: #B5B5B5;
+}
+
+.footer_oxri {
+    display: flex;
+    margin: auto;
+    width: 150px;
+}
+
+.oxri {
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+    background-color: #F49E51;
+}
+
+.oxri1 {
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+    background-color: #6976AB;
+}
+
+.oxri2 {
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+    background-color: #61BEDF;
+}
+
+.oxri3 {
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+    background-color: #EB90B1;
+}
+
+.oxri4 {
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+    background-color: #D7484A;
+}
+
+.footer_1 {
+    height: 60px;
+    background-color: black;
+    color: #B5B5B5;
+}
+.lll{
+    
+}
+
+
