@@ -162,3 +162,11 @@ footer p {
 header nav ul li{
     padding: 5px;
 }
+
+.lll{
+    max-width: 200px;
+    max-height: 160px;
+    display: flex ;
+}
+
+
