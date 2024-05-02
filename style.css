@@ -155,18 +155,47 @@ footer p {
     background-color: black;
     color: #B5B5B5;
 }
-.yangi{
+
+.yangi {
     text-align: center;
 }
 
-header nav ul li{
+header nav ul li {
     padding: 5px;
 }
 
-.lll{
+.lll {
     max-width: 200px;
     max-height: 160px;
-    display: flex ;
+    display: flex;
 }
 
+.bir .box img {
+    max-width: 200px;
+    max-height: 160px;
+}
 
+.bir .box1 img {
+    max-width: 200px;
+    max-height: 160px;
+}
+
+.bir .box2 img {
+    max-width: 200px;
+    max-height: 160px;
+}
+
+.bir .box3 img {
+    max-width: 200px;
+    max-height: 160px;
+}
+
+.lll img {
+    max-width: 200px;
+    max-height: 160px;
+}
+
+footer {
+    max-width: 1450px;
+    max-height: 1000px;
+}
